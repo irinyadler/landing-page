@@ -1,0 +1,14 @@
+<svg id="instagram" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23.792" height="23.792" viewBox="0 0 23.792 23.792">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.083" y1="0.946" x2="0.909" y2="0.055" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fd5"/>
+      <stop offset="0.5" stop-color="#ff543e"/>
+      <stop offset="1" stop-color="#c837ab"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.151" y1="0.872" x2="0.848" y2="0.129" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.083" y1="0.95" x2="0.919" y2="0.051" xlink:href="#linear-gradient"/>
+  </defs>
+  <path id="Path_134" data-name="Path 134" d="M107.567,100.662h0c-6,0-6.567.114-6.567,7.049,0,6.857.2,7.053,7.371,7.053,3.931,0,7.128.441,7.319-3.577C116.237,99.834,115.256,100.653,107.567,100.662Zm.809,11.472a4.423,4.423,0,1,1,0-8.837h0a4.423,4.423,0,1,1,0,8.837Zm4.8-7.977a1.034,1.034,0,1,1,1.08-1.033A1.06,1.06,0,0,1,113.177,104.157Z" transform="translate(-96.447 -95.818)" fill="url(#linear-gradient)"/>
+  <path id="Path_135" data-name="Path 135" d="M196.462,193c-3.969,0-3.964,6,0,6S200.426,193,196.462,193Z" transform="translate(-184.531 -184.1)" fill="url(#linear-gradient-2)"/>
+  <path id="Path_136" data-name="Path 136" d="M22.284,4.35A5.1,5.1,0,0,0,17.808-.681a20.6,20.6,0,0,0-3.5-.111C4.253-.788,2.048-1.237.064.82h0C-1.8,2.756-1.419,4.813-1.419,11.063c0,5.189-.9,10.391,3.832,11.614,1.478.38,14.592.38,16.071,0a5.1,5.1,0,0,0,3.8-4.9C22.312,17.386,22.312,4.744,22.284,4.35ZM18.739,16.8c-1.316,3.382-4.861,3.021-8.3,3.021-3.564,0-7,.32-8.3-3.021-.533-1.367-.459-3.484-.459-5.735,0-2.566-.079-4.359.459-5.735,1.3-3.34,4.713-3.02,8.3-3.02,3.336,0,5.607-.208,7.289,1.469C19.388,5.439,19.2,7.648,19.2,11.067,19.2,13.648,19.277,15.413,18.739,16.8Z" transform="translate(1.488 0.831)" fill="url(#linear-gradient-3)"/>
+</svg>

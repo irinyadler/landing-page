@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.083" y1="0.946" x2="0.909" y2="0.055" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fd5"/>
+      <stop offset="0.5" stop-color="#ff543e"/>
+      <stop offset="1" stop-color="#c837ab"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.151" y1="0.872" x2="0.848" y2="0.129" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.083" y1="0.95" x2="0.919" y2="0.051" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="ig-icon" transform="translate(-334 -2389)">
+    <rect id="Rectangle_257" data-name="Rectangle 257" width="100" height="100" transform="translate(334 2389)" fill="none"/>
+    <g id="instagram" transform="translate(360.667 2415.666)">
+      <path id="Path_134" data-name="Path 134" d="M114.133,100.679h0c-11.991.009-13.133.228-13.133,14.1,0,13.715.409,14.106,14.742,14.106,7.861,0,14.256.883,14.637-7.153C131.473,99.022,129.513,100.66,114.133,100.679Zm1.618,22.943a8.846,8.846,0,1,1,0-17.674h0a8.845,8.845,0,1,1,0,17.674Zm9.6-15.954a2.068,2.068,0,1,1,2.16-2.066A2.119,2.119,0,0,1,125.354,107.668Z" transform="translate(-91.895 -90.989)" fill="url(#linear-gradient)"/>
+      <path id="Path_135" data-name="Path 135" d="M199.437,193c-7.937,0-7.928,11.991,0,11.991S207.364,193,199.437,193Z" transform="translate(-175.574 -175.2)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_136" data-name="Path 136" d="M46.056,9.531C45.592,3.592,41.931.163,37.1-.531c-1.1-.167-1.325-.213-7-.222C9.994-.745,5.583-1.643,1.616,2.471h0C-2.11,6.343-1.35,10.457-1.35,22.956c0,10.377-1.807,20.782,7.665,23.228,2.956.76,29.185.76,32.141,0,3.948-1.019,7.155-4.216,7.6-9.793C46.111,35.6,46.111,10.318,46.056,9.531Zm-7.09,24.905c-2.632,6.764-9.722,6.041-16.6,6.041-7.127,0-13.995.639-16.6-6.041C4.7,31.7,4.85,27.468,4.85,22.965c0-5.133-.158-8.719.918-11.47,2.6-6.68,9.425-6.041,16.6-6.041,6.673,0,11.214-.417,14.578,2.937,3.318,3.317,2.938,7.737,2.938,14.574C39.883,28.126,40.041,31.656,38.966,34.436Z" transform="translate(1.488 0.831)" fill="url(#linear-gradient-3)"/>
+    </g>
+    <g id="Ellipse_39" data-name="Ellipse 39" transform="translate(339 2394)" fill="none" stroke="#004b62" stroke-width="1">
+      <circle cx="45" cy="45" r="45" stroke="none"/>
+      <circle cx="45" cy="45" r="44.5" fill="none"/>
+    </g>
+  </g>
+</svg>
